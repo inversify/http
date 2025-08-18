@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_inversifyjs_inversify_http_docs_site=self.webpackChunk_inversifyjs_inversify_http_docs_site||[]).push([["627"],{7548:function(s){s.exports=JSON.parse('{"blogBasePath":"/http/blog","blogTitle":"Blog","authorsListPath":"/http/blog/authors"}')}}]);
